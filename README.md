@@ -6,7 +6,7 @@
 
 ### Contact Info:
 
-[<img align="left" alt="ismailgulbay | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+<a href="https://www.linkedin.com/in/merve-noyan-28b1a113a/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <br />
 
 ### My Knowledge
@@ -17,4 +17,8 @@
 - HTML 
 - Data Visualization & Analysis
 
-[linkedin]: https://www.linkedin.com/in/ismail-gulbay-990449b6/
+🐍 Python Stack
+- Machine Learning: TensorFlow, Scikit-learn,
+- Data Science: Pandas, Numpy
+- Demo: Matplotlib, Seaborn,
+
