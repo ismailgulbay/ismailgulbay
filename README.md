@@ -12,10 +12,9 @@
 ### My Knowledge
 - Python 
 - SQL
-- C
-- C# 
-- Java 
-- Android Studio 
+- C 
+- Java
+- HTML 
 - Data Visualization & Analysis
 
 [linkedin]: https://www.linkedin.com/in/ismail-gulbay-990449b6/
