@@ -22,3 +22,4 @@
 - Data Science: Pandas, Numpy
 - Demo: Matplotlib, Seaborn,
 
+![Github stats ](https://github-readme-stats.vercel.app/api?username=ismailgulbay&show_icons=true&theme=radical)
