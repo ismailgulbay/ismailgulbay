@@ -7,9 +7,7 @@
 ### Contact Info:
 
 [<img align="left" alt="ismailgulbay | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-
-
-
+<br />
 
 ### My Knowledge
 - Python 
