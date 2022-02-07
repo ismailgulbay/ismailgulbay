@@ -6,7 +6,7 @@
 
 ### Contact Info:
 
-<a href="https://www.linkedin.com/in/merve-noyan-28b1a113a/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/ismail-gulbay-990449b6/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <br />
 
 ### My Knowledge
