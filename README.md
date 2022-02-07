@@ -1,6 +1,6 @@
 ### Hi there, I'm İsmail Meriç, 👋
 
-## I'm a Mathematical Engineering student at Yıldız Technical University
+## I'm a Mathematical Engineering student at Yildiz Technical University
 
 - 🌱 Learning Data Science...
 
@@ -9,16 +9,13 @@
 [<img align="left" alt="ismailgulbay | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
+### My Knowledge
+- Python 
+- SQL
+- C
+- C# 
+- Java 
+- Android Studio 
+- Data Visualization & Analysis
 
 [linkedin]: https://www.linkedin.com/in/ismail-gulbay-990449b6/
