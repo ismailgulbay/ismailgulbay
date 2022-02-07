@@ -1,7 +1,13 @@
-### Hi there 👋
+### Hi there, I'm İsmail Meriç, 👋
 
-<!--
-**ismailgulbay/ismailgulbay** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## I'm a Mathematical Engineering student at Yıldız Technical University
+
+- 🌱 Learning Data Science...
+
+### Contact Info:
+
+[<img align="left" alt="ismailgulbay | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+
 
 Here are some ideas to get you started:
 
@@ -13,4 +19,3 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
