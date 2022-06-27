@@ -18,6 +18,8 @@
 - Java
 - HTML 
 - Data Visualization & Analysis
+- C#
+- .Net/.Net Core
 
 🐍 Python Stack
 - Machine Learning: TensorFlow, Scikit-learn,
