@@ -1,6 +1,6 @@
 ### Hi there, I'm İsmail Meriç, 👋
 
-## I'm a Mathematical Engineering student at Yildiz Technical University
+## I'm a Mathematical Engineering
 
 
 ### Contact Info:
